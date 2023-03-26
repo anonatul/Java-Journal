@@ -26,4 +26,4 @@ This repository contains Java programs that I have written as part of my Java le
 20. [Convert seconds to hour, minute and seconds](#convert-seconds-to-hour-minute-and-seconds)
 21. [Print numbers between 1 to 100 that are divisible by 3, 5 and both](#print-numbers-between-1-to-100-that-are-divisible-by-3-5-and-both)
 22. [Implement class and object concept](#implement-class-and-object-concept)
-23. [Demonstrate function overloading for swapping variables of different data types](#demonstrate-function-overloading-for-sw
+23. [Demonstrate function overloading for swapping variables of different data types](#demonstrate-function-overloading-for-swapping-variables-of-different-data-types)
