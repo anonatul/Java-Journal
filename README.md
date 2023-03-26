@@ -57,7 +57,7 @@ Replace ProgramName with the name of the Java file (without the .java extension)
 
 Here is a list of Java programs included in this repository:
 
-1. [Table of a given number](#https://github.com/anonatul/Java-Journal/blob/main/TableOfNumber.java)
+1. [Table of a given number](https://github.com/anonatul/Java-Journal/blob/main/TableOfNumber.java)
 2. [Sum of digits of a given number](#sum-of-digits-of-a-given-number)
 3. [Reverse a given number](#reverse-a-given-number)
 4. [Check if a number is prime or not](#check-if-a-number-is-prime-or-not)
