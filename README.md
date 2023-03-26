@@ -14,13 +14,13 @@ Thank you for visiting my Java programming journal repository. Happy coding!
 
 ## Table of Contents
 
-   - Getting Started
-   - Prerequisites
-   - Installing
-   - Running the Programs
-   - Program List
-   - Contributing
-   - License
+   - [Getting Started](#Getting-Started)
+   - [Prerequisites](#Prerequisites)
+   - [Installing](#Installing)
+   - [Running the Programs](#Running-the-Programs)
+   - [Program List](#Program-List)
+   - [Contributing](#Contributing)
+   - [License](#License)
 
 ## Getting Started
 
