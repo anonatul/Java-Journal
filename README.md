@@ -57,29 +57,33 @@ Replace ProgramName with the name of the Java file (without the .java extension)
 
 Here is a list of Java programs included in this repository:
 
-1. [Table of a given number](https://github.com/anonatul/Java-Journal/blob/main/TableOfNumber.java)
-2. [Sum of digits of a given number](#sum-of-digits-of-a-given-number)
-3. [Reverse a given number](#reverse-a-given-number)
-4. [Check if a number is prime or not](#check-if-a-number-is-prime-or-not)
-5. [Generate series of prime numbers in a given range](#generate-series-of-prime-numbers-in-a-given-range)
-6. [Check if a number is palindrome or not](#check-if-a-number-is-palindrome-or-not)
-7. [Check if a year is a leap year or not](#check-if-a-year-is-a-leap-year-or-not)
-8. [Generate Fibonacci series up to a given limit](#generate-fibonacci-series-up-to-a-given-limit)
-9. [Calculate the factorial of a given number](#calculate-the-factorial-of-a-given-number)
-10. [Check if a number is an Armstrong number or not](#check-if-a-number-is-an-armstrong-number-or-not)
-11. [Check if a number is perfect or not](#check-if-a-number-is-perfect-or-not)
-12. [Generate numbers between 1 and 100 that are divisible by 7](#generate-numbers-between-1-and-100-that-are-divisible-by-7)
-13. [Display the absent digits from a given number](#display-the-absent-digits-from-a-given-number)
-14. [Convert decimal number to binary, octal and hexadecimal](#convert-decimal-number-to-binary-octal-and-hexadecimal)
-15. [Convert binary number to its decimal equivalent](#convert-binary-number-to-its-decimal-equivalent)
-16. [Search a value in an m x n matrix](#search-a-value-in-an-m-x-n-matrix)
-17. [Print numbers between 1 to 100 that are divisible by 3, 5 and both](#print-numbers-between-1-to-100-that-are-divisible-by-3-5-and-both)
-18. [Check if a number is a power of 4 or not](#check-if-a-number-is-a-power-of-4-or-not)
-19. [Calculate the sum of digits of a given number and write the number of each digit of the sum in English](#calculate-the-sum-of-digits-of-a-given-number-and-write-the-number-of-each-digit-of-the-sum-in-english)
-20. [Convert seconds to hour, minute and seconds](#convert-seconds-to-hour-minute-and-seconds)
-21. [Print numbers between 1 to 100 that are divisible by 3, 5 and both](#print-numbers-between-1-to-100-that-are-divisible-by-3-5-and-both)
-22. [Implement class and object concept](#implement-class-and-object-concept)
-23. [Demonstrate function overloading for swapping variables of different data types](#demonstrate-function-overloading-for-swapping-variables-of-different-data-types)
+   - Display table of a given number
+   - Find sum of digits of a given number
+   - Reverse a given number
+   - Check given number is prime or not
+   - Find series of prime numbers from a given range
+   - Check given number is palindrome or not
+   - Check given year is leap year or not
+   - Display Fibonacci Series up to a limit
+   - Find factorial of a given number
+   - Check given number is Armstrong or not
+   - Check whether a given number is perfect or not
+   - Display all numbers between 1 and 100 divisible by 7
+   - Display absent digits from a given number
+   - Convert decimal number to binary, octal, and hexadecimal equivalents
+   - Convert binary number to decimal equivalent
+   - Search a value in an m x n matrix
+   - Implement FizzBuzz program
+   - Check whether a given integer is a power of 4 or not
+   - Calculate sum of digits of a given integer and write the number of each digit of the sum in English
+   - Convert seconds to hour, minute, and seconds
+   - Print numbers between 1 to 100 which are divisible by 3, 5 and by both
+   - Implement class and object concept
+   - Demonstrate Function Overloading for swapping of two variables of different data types
+   - Find square of a given number belonging to different data types using function overloading
+   - Copy contents of one array into another in reverse order
+   - Sort elements stored in an array
+   - Implement Multiple Inheritance using interface.
 
 
 ## Contributing
